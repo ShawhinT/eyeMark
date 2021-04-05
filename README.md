@@ -1,2 +1,2 @@
 # eyeMark
-Detect eye landmarks of eye stream video from Tobii Pro Glasses 2
+Detect eye landmarks from Tobii Pro Glasses 2 eye stream video
